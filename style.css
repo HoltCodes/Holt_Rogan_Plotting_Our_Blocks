@@ -1,8 +1,8 @@
 .container{
   width: 950px;
-  height: 600px;
   background-color: silver;
   padding-top: 10px;
+  padding-bottom: 20px;
 }
 
 .top-nav {
@@ -38,10 +38,11 @@
  
 #advertisement {
   height: 120px;
-  width: 660px;
+  width: 675px;
   background-color: purple;
   display: inline-block; 
-  margin-left: 20px; 
+  margin-left: 15px; 
   margin-top: 20px;
+  
 }
 
